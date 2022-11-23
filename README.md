@@ -5,38 +5,38 @@ Python's script to download from YouTube a video as video or mp3.
 
 You must install PyTube library from console:
 
-´´´bash
+```bash
 pip install pytube3
-´´´
+```
 
 To execute the script, you must use the console.
 
 To get help:
 
-´´´bash
+```bash
 python ytdwn 
-´´´
+```
 
 To download video from link:
 
-´´´bash
+```bash
 python ytdwn "https://www.youtube.com/watch?v=xkr68hc1234"
-´´´
+```
 
 To download mp3 from link:
 
-´´´bash
+```bash
 python ytdwn -m "https://www.youtube.com/watch?v=xkr68hc1234"
-´´´
+```
 
 To download video from file with links list:
 
-´´´bash
+```bash
 python ytdwn "file.txt"
-´´´
+```
 
 To download mp3 from file with links list:
 
-´´´bash
+```bash
 python ytdwn -m "file.txt"
-´´´
+```
