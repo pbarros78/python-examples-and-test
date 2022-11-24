@@ -14,7 +14,7 @@ To execute the script, you must use the console.
 To get help:
 
 ```bash
-python ytdwn 
+python ytdwn -h
 ```
 
 To download video from link:
