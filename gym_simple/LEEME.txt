@@ -1,0 +1,37 @@
+Instalar las dependencias:
+pip install -r dependencias.txt
+
+Estructura de las carpetas
+- Raiz
+    - dependencias.txt
+    - LEEME.txt
+    - gym
+        - main.py
+        - recursos
+            - datos
+                - perfiles.csv
+                - avances.csv
+                - rutinas.csv
+                - lugares.csv
+            - funciones
+                - calculos.py
+                - usuarios.py
+                - utilidades.py
+                - validadores.py
+            - pantallas
+                - principal.py
+                - usuario.py
+
+Para la estructura de la aplicación se tomó como base un conjunto de ejemplos, algunas de las urls
+consultadas:
+- https://medium.com/analytics-vidhya/python-console-application-structure-ab337c5e94d7
+- https://github.com/navdeep-G/samplemod
+- https://omstd.readthedocs.io/develop/organization.html
+- https://www.panicoenlaxbox.com/post/organizacion-proyecto-python/
+
+Para el uso correcto de los diferentes recursos tales como archivos de datos, funciones, pantallas,
+etc., era necesario encontrar una forma de organizar todo.
+Se intentó poner sufijos a los archivos de código Python (.py), pero la carpeta principal se estaba
+llenando de archivos.
+Se intentó poner algunos archivos en carpetas y tuvimos problemas para cargar (importar) de otras
+carpetas, es por eso que se buscó una forma más adecuada.

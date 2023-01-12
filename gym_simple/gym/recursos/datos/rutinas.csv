@@ -1,0 +1,105 @@
+nivel;grupo_muscular;descripcion;repeticiones;series;descanso;dias
+1;Multiarticulares;Abdominales con rueda;10;3;2;1
+1;Multiarticulares;Alternar brazos y piernas con salto al cambiar;10;3;2;3
+1;Multiarticulares;Rodilla al pecho colgado;10;3;2;5
+1;Multiarticulares;Rotación lateral de tronco;10;3;2;1
+1;Multiarticulares;Sentadilla con brazos extendidos ;10;3;2;1
+1;Multiarticulares;Sentadilla con press hombro al bajar;10;3;2;3
+1;Multiarticulares;Vuelos laterales con elástico;10;3;2;5
+1;Multiarticulares;Tocar la punta del pie cruzado;10;3;2;1
+1;Multiarticulares;Subir y bajar cajón a un pie;10;3;2;1
+1;Multiarticulares;Sentadilla profunda con salto;10;3;2;5
+1;Multiarticulares;Sentadilla media;10;3;2;5
+1;Multiarticulares;Sentadilla lateral;10;3;2;3
+1;Multiarticulares;Sentadilla búlgara;10;3;2;1
+1;Multiarticulares;Remo con elástico;10;3;2;1
+1;Multiarticulares;Puente glúteo;10;3;2;3
+1;Multiarticulares;Plancha isométrica;10;3;2;3
+1;Multiarticulares;Lumbares acostado;10;3;2;5
+1;Multiarticulares;Estocadas caminando;10;3;2;3
+1;Multiarticulares;Estocada estática;10;3;2;1
+1;Multiarticulares;Estocada cruzada;10;3;2;5
+1;Multiarticulares;Bíceps con elástico;10;3;2;3
+1;Multiarticulares;Abdominales rodilla al pecho alternada;10;3;2;5
+1;Multiarticulares;Abdominales estilo patada nadador;10;3;2;3
+1;Multiarticulares;Abdominales abriendo y cerrando las piernas;10;3;2;5
+2;Pierna;Aducción con elástico;12;3;2;1
+2;Pierna;Estocada con elevación de rodilla;12;3;2;3
+2;Pierna;Flexión de cadera acostado con elástico;12;3;2;5
+2;Pierna;Peso muerto con banda elástica;12;3;2;1
+2;Pierna;Peso muerto rumano con banda elástica;12;3;2;5
+3;Pierna;Sentadilla sumo con mancuerna;15;4;1;1
+2;Pierna;Sentadilla piernas juntas con talones en elevación;12;3;2;1
+2;Pierna;Sentadilla libre con barra;12;3;2;5
+2;Pierna;Peso muerto tradicional;12;3;2;3
+2;Pierna;Hip thrust con barra;12;3;2;3
+3;Pierna;Aducción en máquina;15;4;1;1
+2;Gluteos;Abducción acostado con banda elástica;12;3;2;1
+2;Gluteos;Buenos días con banda elástica;12;3;2;3
+2;Gluteos;Hip thrust a una pierna;12;3;2;1
+3;Gluteos;Patada glútea de pie con banda elástica;15;4;1;1
+2;Gluteos;Puente glúteo a un pie;12;3;2;1
+3;Gluteos;Sentadillas isométricas en desplazamiento lateral con banda elástica;15;4;1;1
+2;Espalda;Dominadas tomada paralela asistida con elástico;12;3;2;2
+3;Espalda;Pull down con banda elástica superior;15;4;1;2
+3;Espalda;Pull over con elástico;15;4;1;2
+2;Espalda;Remo con elástico en pronosupino;12;3;2;2
+3;Espalda;Remo en máquina tomada paralela;15;4;1;5
+3;Espalda;Remo con mancuerna;15;4;1;2
+2;Espalda;Remo con barra entre las piernas a un brazo;12;3;2;2
+2;Espalda;Lumbar en banco romano;12;3;2;4
+3;Espalda;Dominadas tomada amplia en pronación;15;4;1;5
+2;Espalda;Dominadas agarre junto;12;3;2;4
+3;Pectoral;Flexiones de codo con apoyo de rodillas sobre cajón, brazos pegados al tronco;15;4;1;5
+2;Pectoral;Flexiones de codo con manillas;12;3;2;2
+3;Pectoral;Flexiones de codo, con brazos separados al tronco;15;4;1;2
+2;Pectoral;Press supino;12;3;2;2
+3;Pectoral;Flexiones de codo;15;4;1;2
+3;Pectoral;Press pectoral menor poleas;15;4;1;5
+3;Pectoral;Press pecho inclinado con mancuernas;15;4;1;5
+2;Pectoral;Press pecho en poleas;12;3;2;2
+2;Pectoral;Press pecho declinado con barra;12;3;2;4
+2;Biceps;Bíceps lateral con banda elástica;12;3;2;3
+3;Biceps;Curl de bíceps a un brazo con elástico;15;4;1;3
+2;Biceps;Doble bíceps en polea baja;12;3;2;3
+3;Biceps;Doble bíceps en polea alta;15;4;1;3
+3;Biceps;Bíceps en supinación con mancuernas en banco inclinado apoyado de pecho;15;4;1;5
+3;Biceps;Bíceps en polea baja unilateral;15;4;1;3
+2;Biceps;Bíceps en polea alta con cuerda;12;3;2;5
+3;Biceps;Bíceps de pie con disco;15;4;1;5
+3;Triceps;Extensión de codos con elástico ;15;4;1;3
+2;Triceps;Extensión de codos con elásticos, dos brazos;12;3;2;3
+3;Triceps;Tríceps en polea alta con cuerda;15;4;1;3
+2;Triceps;Tríceps polea alta con barra en pronación;12;3;2;5
+3;Triceps;Tríceps copa con mancuerna;15;4;1;3
+3;Triceps;Press tríceps en banco inclinado con barra;15;4;1;5
+2;Triceps;Press francés con mancuernas y giro de muñecas;12;3;2;3
+3;Triceps;Press francés con barra al mentón;15;4;1;5
+2;Deltoides;Vuelo frontal completo;12;3;2;4
+3;Deltoides;Vuelos laterales con mancuernas;15;4;1;4
+2;Deltoides;Remo al cuello con mancuernas;12;3;2;4
+2;Deltoides;Press militar tras nuca maquina Smith;12;3;2;4
+3;Deltoides;Press militar frontal en supinación;15;4;1;3
+3;Deltoides;Press militar con barra;15;4;1;4
+3;Deltoides;Press de hombro a un brazo con barra;15;4;1;3
+3;Deltoides;Posterior en poleas cruzadas;15;4;1;4
+3;Deltoides;Flexiones invertidas;15;4;1;2
+2;Multiarticulares;Sentadilla con press de hombro al subir;12;3;2;1
+3;Multiarticulares;Sentadilla con resistencia banda elástica;15;4;1;4
+3;Multiarticulares;Vuelo frontal con elásticos;15;4;1;4
+2;Multiarticulares;Toque de rodilla y codo cruzado alterno;12;3;2;1
+3;Multiarticulares;Talón al glúteo;15;4;1;1
+2;Multiarticulares;Sentadilla profunda;12;3;2;1
+3;Multiarticulares;Sentadilla media con salto;15;4;1;1
+3;Multiarticulares;Sentadilla lateral alternada;15;4;1;4
+3;Multiarticulares;Sentadilla isométrica;15;4;1;4
+2;Multiarticulares;Salto a un pie sobre cajón;12;3;2;4
+3;Multiarticulares;Puente glúteo a una pierna;15;4;1;4
+2;Multiarticulares;Plancha isométrica con apoyo de rodillas y patada glútea;12;3;2;2
+3;Multiarticulares;Patada de glúteo;15;4;1;1
+2;Multiarticulares;Flexiones en banco con inclinación;12;3;2;4
+2;Multiarticulares;Estocada paso atrás;12;3;2;1
+3;Multiarticulares;Arrodillarse y pararse;15;4;1;1
+3;Multiarticulares;Abdominales cruzando piernas;15;4;1;2
+2;Multiarticulares;Abdominales con rueda;12;3;2;2
+3;Multiarticulares;Abdominales con rueda;15;4;1;2

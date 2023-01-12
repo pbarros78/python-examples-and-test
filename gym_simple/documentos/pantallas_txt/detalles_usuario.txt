@@ -1,0 +1,16 @@
+Detalles de [Nombre] [Apellido]
+===============================
+
+Ingrese su fecha de nacimiento (ej.:28/08/1990):
+Ingrese su sexo (M = mujer, H = Hombre):
+Ingrese su peso en kg (sin décimas, ej.: 60):
+Ingrese su estatura en cm (sin décimas, ej.: 163):
+
+Seleccione su nivel de actividad
+1) No haces nada de ejercicio y trabajas sentado.
+2) Realizas ejercicio ligero dos dias por semana.
+3) Haces ejercicio moderado, unos cuatro dias por semana.
+4) Hacer deporte regular seis dias a la semana.
+5) Eres deportista de elite o entrenas muy intenso cada dia.
+
+Ingrese el número que indica su nivel (del 1 al 5):

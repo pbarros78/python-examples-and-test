@@ -1,0 +1,3 @@
+Usuario;Contrasena;Nombre;Apellido;Fecha_Nacimiento;Sexo;Peso;Estatura;Nivel_Actividad;Fecha_Registro;Nivel_Ejercicios
+admin;admin123;Administrador;;01/01/2000;N;0;0;0;;
+arina;12345;Arina;Bilan;04/12/1991;M;62;163;1;04/12/2022;1.0

@@ -1,0 +1,7 @@
+Ingreso del Usuario
+===================
+
+Usuario:
+ERROR: Usuario no existe!, intente registrarse.
+Contrasena:
+ERROR: Usuario o contraseña inválidos!.

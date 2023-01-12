@@ -1,0 +1,8 @@
+Registro de Usuarios
+====================
+    
+Ingrese un nombre de usuario:
+ERROR: Usuario ya existe!, intente otro nombre de usuario.
+Ingrese una contrasena:
+Ingrese su Nombre:
+Ingrese su Apellido:

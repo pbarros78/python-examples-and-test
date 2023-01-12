@@ -1,0 +1,14 @@
+Bienvenido(a) Administrador
+====================
+Pantalla de aministración del sistema
+------------------------------------------------------------
+
+
+1) Ver Rutinas
+2) Registrar Rutinas
+3) Ver Lugares
+4) Registrar Lugares
+   -----------------
+5) Desconectarse
+
+Ingrese su opción y presione ENTER para continuar:

@@ -1,0 +1,105 @@
+Bienvenido
+==========
+
+1) Ingreso
+2) Registrarse
+   -----------
+3) Salir
+
+Ingrese su opción y presione ENTER para continuar:
+#########################################################################################################################
+1) Ingreso
+#########################################################################################################################
+Ingreso del Usuario
+===================
+
+Usuario:
+Contrasena:
+#########################################################################################################################
+2) Registrarse
+#########################################################################################################################
+Registro de Usuarios
+====================
+    
+Ingrese un nombre de usuario:
+Ingrese una contrasena:
+Ingrese su Nombre:
+Ingrese su Apellido:
+Ingrese su fecha de nacimiento (ej.:28/08/1990):
+#########################################################################################################################
+Pantalla usuario
+#########################################################################################################################
+Bienvenido(a) [Nombre] [Apellido]
+====================
+
+Sexo: S             Edad: 0 años
+Peso: 0 kg.         Estatura: 0 mt.
+
+Tasa Metabólica Basal (TMB)
+0 Kcal/día calorías diarias necesarias para mantenerse.
+
+Indice de Masa Corporal (IMC)
+0% = descripcion
+--------------------------------------------------------------------------------
+
+1) Ver detalles
+2) Registrar detalles
+   ------------------
+3) Desconectarse
+
+#########################################################################################################################
+y/o
+#########################################################################################################################
+
+Bienvenido(a) [Nombre] [Apellido]
+====================
+
+Sexo: S             Edad: 0 años
+Peso: 0 kg.         Estatura: 0 mt.
+
+TMB: 0 Kcal/día calorías diarias necesarias para mantenerse.
+IMC: 0% = descripcion
+--------------------------------------------------------------------------------
+
+1) Ver detalles
+2) Registrar detalles
+   ------------------
+3) Desconectarse
+
+Ingrese su opción y presione ENTER para continuar:
+#########################################################################################################################
+2) Registrar detalles
+#########################################################################################################################
+
+Detalles de [Nombre] [Apellido]
+====================
+
+Ingrese su sexo (M = mujer, H = Hombre):
+Ingrese su peso en kg (sin décimas, ej.: 60):
+Ingrese su estatura en cm (sin décimas, ej.: 163):
+
+Seleccione su nivel de actividad
+1) No haces nada de ejercicio y trabajas sentado.
+2) Realizas ejercicio ligero dos dias por semana.
+3) Haces ejercicio moderado, unos cuatro dias por semana.
+4) Hacer deporte regular seis dias a la semana.
+5) Eres deportista de elite o entrenas muy intenso cada dia.
+
+Ingrese el número que indica su nivel (del 1 al 5):
+#########################################################################################################################
+Pantalla Administrador
+#########################################################################################################################
+Bienvenido(a) Administrador
+====================
+Pantalla de aministración del sistema
+------------------------------------------------------------
+
+
+1) Ver Rutinas
+2) Registrar Rutinas
+3) Ver Lugares
+4) Registrar Lugares
+   -----------------
+5) Desconectarse
+
+Ingrese su opción y presione ENTER para continuar:

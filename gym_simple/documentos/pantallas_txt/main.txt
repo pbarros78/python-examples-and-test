@@ -1,0 +1,9 @@
+Bienvenido
+==========
+
+1) Ingreso
+2) Registrarse
+   -----------
+3) Salir
+
+Ingrese su opción y presione ENTER para continuar: 
