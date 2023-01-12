@@ -1,0 +1,7 @@
+venv
+.vscode
+bak_gym
+RECICLASH_arreglandose
+__pycache__
+*.zip
+
